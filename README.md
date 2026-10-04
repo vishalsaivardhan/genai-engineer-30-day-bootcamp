@@ -17,7 +17,7 @@ Git, and AI engineering foundation program.
 ## Progress
 
 - [X] Day 01
-- [ ] Day 02
+- [X] Day 02
 - [ ] Day 03
 - [ ] Day 04
 - [ ] Day 05
