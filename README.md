@@ -20,7 +20,7 @@ Git, and AI engineering foundation program.
 - [X] Day 02
 - [X] Day 03
 - [X] Day 04
-- [ ] Day 05
+- [X] Day 05
 - [ ] Day 06
 - [ ] Day 07
 - [ ] Day 08
